@@ -74,7 +74,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-image: url('../Assets/Hero-bg.png');
+    background-image: url('../assets/Hero-bg.png');
     background-repeat: repeat;
     background-size: contain;
     padding: 2rem;
